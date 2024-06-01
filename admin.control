@@ -1,0 +1,4 @@
+comment = 'Admin access module via token'
+default_version = '1.0'
+module_pathname = '$libdir/admin'
+relocatable = true
